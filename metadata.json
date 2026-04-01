@@ -1,0 +1,5 @@
+{
+  "name": "نعيم الذاكرين - Naeim Al-Thakireen",
+  "description": "منصة إسلامية شاملة للأذكار، القرآن الكريم، مواقيت الصلاة، والأحاديث النبوية.",
+  "requestFramePermissions": ["geolocation"]
+}
